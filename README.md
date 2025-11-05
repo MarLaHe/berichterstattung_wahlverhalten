@@ -60,3 +60,8 @@ Um ähnliche Tendenzen besser zu erkennen, wird hierzu jeweils auch ein Trend ü
 
 
 Für begleitende Ausarbeitung bitte in den docs-Ordner schauen.
+
+
+### Lizenz
+Dieses Projekt steht unter der [Creative Commons Namensnennung – Nicht-kommerziell 4.0 International Lizenz (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.de).  
+Eine Nutzung ist nur mit Namensnennung und nicht-kommerziell gestattet.
