@@ -51,7 +51,7 @@ Die Datensätze (prozentuale Wordcounts und prozentuale Umfrageergebnisse) werde
 Um ähnliche Tendenzen besser zu erkennen, wird hierzu jeweils auch ein Trend über die dritte Polynomfunktion modelliert und die durchschnittliche Differenz der Trends berechnet.
 
 ## Ausführung des Projekts
-1. Als Grundlage dienen die .tar-Dateien aus dem Webscraper von Prof.Dr. Marcel Hebing von April 2021 bis November 2024. Diese werden im Projektordner in einen Unterordner "tageszeitungen_gesamt" gespeichert und über das Skript 01_extract.py entpackt.
+1. Als Grundlage dienen die .tar-Dateien aus einem Webscraper von April 2021 bis November 2024. Diese werden im Projektordner in einen Unterordner "tageszeitungen_gesamt" gespeichert und über das Skript 01_extract.py entpackt.
 2. Das Skript 02_select.sh wählt nur die HTML von bestimmten Zeitungen aus und löscht alle anderen.
 3. Im Notebook 03_build_dwh.ipynb werden die HTML eingelesen, Wörter bestimmt und gezählt und in eine Datenbank geschrieben.
 4. Im Notebook 04_analyse_dwh.ipynb werden die Analysen vorgenommen
